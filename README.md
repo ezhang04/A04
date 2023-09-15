@@ -12,4 +12,4 @@ Go to settings and activate the page.
 
 Copy and paste the repository and website URL into Canvas
 
-The repository URL should be of the form:
+[Link to HTML file](https://ezhang04.github.io/A04/my-first-web-page.html)
